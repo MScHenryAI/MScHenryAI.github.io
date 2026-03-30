@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "name": "Henry Portfolio Tech-Noir Palette",
+    "source": "app/globals.css",
+    "colorSpace": "HEX",
+    "generatedOn": "2026-03-30"
+  },
+  "base": {
+    "background": "#000000",
+    "foreground": "#EEEEEE",
+    "card": "#020202",
+    "cardForeground": "#EEEEEE",
+    "popover": "#000000",
+    "popoverForeground": "#EEEEEE"
+  },
+  "brand": {
+    "primary": "#0091FF",
+    "primaryForeground": "#FFFFFF",
+    "secondary": "#040609",
+    "secondaryForeground": "#EEEEEE",
+    "muted": "#0B0B0B",
+    "mutedForeground": "#808080",
+    "accent": "#006FEA",
+    "accentForeground": "#FFFFFF"
+  },
+  "semantic": {
+    "destructiveDark": "#82181A",
+    "destructiveForegroundDark": "#FB2C36",
+    "destructiveRoot": "#E7000B",
+    "border": "#0F171F",
+    "input": "#080C0F",
+    "ring": "#0091FF"
+  },
+  "chart": {
+    "chart1": "#0091FF",
+    "chart2": "#008D9B",
+    "chart3": "#00BCA2",
+    "chart4": "#6D65FE",
+    "chart5": "#3DBFE2"
+  },
+  "sidebar": {
+    "sidebar": "#000000",
+    "sidebarForeground": "#EEEEEE",
+    "sidebarPrimary": "#0091FF",
+    "sidebarPrimaryForeground": "#FFFFFF",
+    "sidebarAccent": "#040609",
+    "sidebarAccentForeground": "#EEEEEE",
+    "sidebarBorder": "#0F171F",
+    "sidebarRing": "#0091FF"
+  },
+  "effects": {
+    "glowPrimary": "#0091FF80",
+    "glowAccent": "#006FEA4D",
+    "gridPatternLine": "#0F171F1A",
+    "glassBg": "#02030699",
+    "glassBorder": "#262F3833",
+    "terminalText": "#6ED889",
+    "scrollbarTrack": "#000000",
+    "scrollbarThumb": "#0D2339",
+    "scrollbarThumbHover": "#003C6C"
+  }
+}

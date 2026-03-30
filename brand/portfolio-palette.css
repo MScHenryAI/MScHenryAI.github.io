@@ -1,0 +1,58 @@
+/* Henry Portfolio - Tech Noir palette (HEX) */
+:root {
+  /* Base UI */
+  --color-background: #000000;
+  --color-foreground: #EEEEEE;
+  --color-card: #020202;
+  --color-card-foreground: #EEEEEE;
+  --color-popover: #000000;
+  --color-popover-foreground: #EEEEEE;
+
+  /* Brand */
+  --color-primary: #0091FF;
+  --color-primary-foreground: #FFFFFF;
+  --color-secondary: #040609;
+  --color-secondary-foreground: #EEEEEE;
+  --color-muted: #0B0B0B;
+  --color-muted-foreground: #808080;
+  --color-accent: #006FEA;
+  --color-accent-foreground: #FFFFFF;
+
+  /* Semantic */
+  --color-destructive: #82181A;
+  --color-destructive-foreground: #FB2C36;
+  --color-destructive-root: #E7000B;
+
+  /* Inputs and borders */
+  --color-border: #0F171F;
+  --color-input: #080C0F;
+  --color-ring: #0091FF;
+
+  /* Charts */
+  --color-chart-1: #0091FF;
+  --color-chart-2: #008D9B;
+  --color-chart-3: #00BCA2;
+  --color-chart-4: #6D65FE;
+  --color-chart-5: #3DBFE2;
+
+  /* Sidebar */
+  --color-sidebar: #000000;
+  --color-sidebar-foreground: #EEEEEE;
+  --color-sidebar-primary: #0091FF;
+  --color-sidebar-primary-foreground: #FFFFFF;
+  --color-sidebar-accent: #040609;
+  --color-sidebar-accent-foreground: #EEEEEE;
+  --color-sidebar-border: #0F171F;
+  --color-sidebar-ring: #0091FF;
+
+  /* Effects and overlays */
+  --glow-primary: #0091FF80;
+  --glow-accent: #006FEA4D;
+  --grid-pattern-line: #0F171F1A;
+  --glass-bg: #02030699;
+  --glass-border: #262F3833;
+  --terminal-text: #6ED889;
+  --scrollbar-track: #000000;
+  --scrollbar-thumb: #0D2339;
+  --scrollbar-thumb-hover: #003C6C;
+}
