@@ -8,7 +8,7 @@ import { useHydrated } from '@/hooks/use-hydrated'
 const socialLinks = [
   { href: 'https://www.linkedin.com/in/henry-aranzales-lopez-b25398204', icon: Linkedin, label: 'LinkedIn' },
   { href: 'mailto:henry.profesional@outlook.com', icon: Mail, label: 'Email' },
-  { href: 'https://github.com/henryaranzales', icon: Github, label: 'GitHub' },
+  { href: 'https://github.com/MScHenryAI', icon: Github, label: 'GitHub' },
 ]
 
 const navLinks = [

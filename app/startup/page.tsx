@@ -358,7 +358,7 @@ export default function StartupPage() {
                 LinkedIn
               </a>
               <a
-                href="https://github.com/henryaranzales"
+                href="https://github.com/MScHenryAI"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-secondary/50 text-foreground font-medium border border-border/50 hover:border-primary/30 transition-all duration-300"
