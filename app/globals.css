@@ -5,7 +5,7 @@
 
 :root {
   /* Tech-Noir Color Palette */
-  --background: #282d3e;
+  --background: #141720;
   --foreground: oklch(0.95 0 0);
   --card: oklch(0.08 0 0);
   --card-foreground: oklch(0.95 0 0);
@@ -45,7 +45,7 @@
 }
 
 .dark {
-  --background: #282d3e;
+  --background: #141720;
   --foreground: oklch(0.95 0 0);
   --card: oklch(0.08 0 0);
   --card-foreground: oklch(0.95 0 0);
